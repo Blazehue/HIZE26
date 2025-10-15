@@ -1,9 +1,9 @@
 # 🚀 HIZE 2026 - High Impact Zonal Events
 
-![Next.js](https://img.shields.io/badge/Next.js-15.3.5-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Next.js](https://img.shields.io/badge/Next.js-15.3.5-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 A modern, immersive website for **HIZE 2026** - IEEE Computer Society's flagship initiative bringing together innovation, technology, and academic excellence. Built with cutting-edge web technologies featuring a stunning claymorphic design with particle effects and smooth animations.
 
@@ -218,7 +218,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Build configured to ignore TypeScript and ESLint errors (for rapid development)
 - Using `--legacy-peer-deps` due to peer dependency conflicts
 
-## 📧 Contact
+## 📞 Contact
 
 **IEEE CS SRM**
 - Location: SRM Institute of Science & Technology, Kattankulathur, Tamil Nadu, 603203, India
@@ -226,7 +226,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -236,6 +236,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Made with ❤️ by IEEE CS SRM**
-
-© 2026 IEEE CS SRM | In collaboration with SRM Institute of Science & Technology
+<p align="center">
+  Made with ❤️ by IEEE CS SRM<br>
+  © 2026 IEEE CS SRM | In collaboration with SRM Institute of Science & Technology
+</p>
